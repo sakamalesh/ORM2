@@ -65,6 +65,9 @@ class BookAdmin(admin.ModelAdmin):
 
 
 
+
+
+
 ![web exp2](https://github.com/sakamalesh/ORM2/assets/149148235/2791d9f2-fe8f-4091-a7d2-e436c71f52bd)
 
 
