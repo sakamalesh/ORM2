@@ -56,7 +56,9 @@ class BookAdmin(admin.ModelAdmin):
 
 
 
+ER DIAGRAM:
 
+![Screenshot 2024-03-21 134417](https://github.com/sakamalesh/ORM2/assets/149148235/970d030a-cd88-4ab0-be29-2809e5e895c9)
 
 
 
